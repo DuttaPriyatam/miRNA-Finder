@@ -17,5 +17,3 @@ ii. The UTR data and miRNA data should be kept in the same folder as input file(
 iii. The script is compatible with python3 interpreter 
 iv. The output file could be renamed at the last line of the script.
 v. The binding probability obtained in the output file is based on the binding of miRNA to the non-mutated sequence.  
-
-Note: A sample for input file(input.tsv) and output file(output.tsv) has been provided. However, due to the large size of the databases for UTR and miRNA they aren't provided. 
